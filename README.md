@@ -1,5 +1,3 @@
-第一个开发分支，第一次提交修改！
-
 [Click me switch to English version](README.en.md)
 
 ![](docs/images/Metis_logo.png)
