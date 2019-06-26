@@ -1,6 +1,3 @@
-第一支开发分支，测试第一次提交修改！
-第一个开发分支，测试第二次提交修改，并merge分支到master！
-
 [Click me switch to English version](README.en.md)
 
 ![](docs/images/Metis_logo.png)
