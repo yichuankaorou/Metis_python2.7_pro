@@ -1,3 +1,12 @@
+
+*************************************************************************************************************************
+This is test line used for testing code before code merge into production line(Master)！
+
+Please pull development branch from test line to do developing work, please contact Jizhi if any concerns!
+
+*************************************************************************************************************************
+
+
 [Click me switch to English version](README.en.md)
 
 ![](docs/images/Metis_logo.png)
